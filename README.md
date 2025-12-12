@@ -49,3 +49,11 @@ Si vous souhaitez exécuter NetPractice en local :
 ✔️ Validation
 
 La validation d'un niveau est obtenue lorsque l'interface graphique confirme que toutes les connexions requises sont établies et fonctionnelles. Dans l'outil, cela se manifeste par le passage de l'indicateur de connexion (souvent un cercle ou un trait) au vert
+
+👨‍💻 Auteur
+
+  Myc42 - Initiateur du projet/Réalisation
+
+📝 Licence
+
+Ce projet est distribué sous la [Ecole 42 MIT License].
